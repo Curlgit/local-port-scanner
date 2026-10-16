@@ -25,7 +25,7 @@ A hobby project: a simple Python tool that checks the ports of a **local website
 
 ```bash
 pkg update && pkg install python git
-git clone https://github.com/Gg/local-port-scanner.git
+git clone https://github.com/Curlgit/local-port-scanner.git
 cd local-port-scanner
 bash install.sh
 python portscan.py
